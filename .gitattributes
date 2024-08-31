@@ -1,0 +1,4 @@
+*.dta linguist-language=Stata
+*.do linguist-language=Stata
+*.vhd linguist-language=VHDL
+*.vhdl linguist-language=VHDL
